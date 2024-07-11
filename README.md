@@ -1,5 +1,12 @@
 # Course Planner API
-The Course Planner API provides information about courses offered by a university, including departments, courses, course offerings, and offering sections.
+The Course Planner API is a web application developed to assist students in tracking and planning their courses at Simon Fraser University (SFU). This project was part of a course assignment focusing on Object-Oriented Design in Java. It utilizes the Model-View-Controller (MVC) framework and Spring Boot to create a RESTful API that interacts with a web-based user interface.
+
+### Key Features
+
+Course Tracking: The API provides detailed information about the courses offered by SFU, including departments, courses, course offerings, and offering sections.
+RESTful API: The application uses RESTful web services to handle client requests and responses in JSON format.
+MVC Architecture: The project follows the MVC design pattern, ensuring a clear separation of concerns between the model, view, and controller layers.
+Spring Boot Framework: The backend is built using Spring Boot, which simplifies the setup and development of the Spring applications.
 
 ## Endpoints
 ### About Information
